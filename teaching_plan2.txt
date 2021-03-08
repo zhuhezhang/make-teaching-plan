@@ -1,0 +1,27 @@
+第1学期:
+c9 gaodengshuxue 7 
+c11 putongwuli 2 
+c6 jisuanjiyuanli 3 
+本学期总学分为：12
+
+第2学期:
+c10 xingxingdaishu 5 
+c1 chengxushejijichu 2 
+c12 shuzhifenxi 3 
+c4 huibianyuyan 3 
+本学期总学分为：13
+
+第3学期:
+c2 lisanshuxue 3 
+c3 shujujiegou 4 
+c8 caozuoxitong 4 
+c5 chengxusheji 2 
+本学期总学分为：13
+
+第4学期:
+c13 ruanjiangongcheng 3 
+c7 bianyiyuanli 4 
+c14 shujukuyuanli 3 
+本学期总学分为：10
+
+学期总数为:4
